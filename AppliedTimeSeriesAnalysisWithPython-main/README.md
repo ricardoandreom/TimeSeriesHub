@@ -1,1 +1,1 @@
-# AppliedTimeSeriesAnalysisWithPython
+# AppliedTimeSeriesAnalysis
