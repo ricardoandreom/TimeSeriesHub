@@ -1,1 +1,1 @@
-# AppliedTimeSeriesAnalysis
+# Applied TimeSeries Analysis
